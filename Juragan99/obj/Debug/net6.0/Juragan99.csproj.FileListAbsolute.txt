@@ -1,0 +1,15 @@
+C:\Users\CODE.ID\source\repos\BootcampCodeID\Juragan99\bin\Debug\net6.0\Juragan99.exe
+C:\Users\CODE.ID\source\repos\BootcampCodeID\Juragan99\bin\Debug\net6.0\Juragan99.deps.json
+C:\Users\CODE.ID\source\repos\BootcampCodeID\Juragan99\bin\Debug\net6.0\Juragan99.runtimeconfig.json
+C:\Users\CODE.ID\source\repos\BootcampCodeID\Juragan99\bin\Debug\net6.0\Juragan99.dll
+C:\Users\CODE.ID\source\repos\BootcampCodeID\Juragan99\bin\Debug\net6.0\Juragan99.pdb
+C:\Users\CODE.ID\source\repos\BootcampCodeID\Juragan99\obj\Debug\net6.0\Juragan99.csproj.AssemblyReference.cache
+C:\Users\CODE.ID\source\repos\BootcampCodeID\Juragan99\obj\Debug\net6.0\Juragan99.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CODE.ID\source\repos\BootcampCodeID\Juragan99\obj\Debug\net6.0\Juragan99.AssemblyInfoInputs.cache
+C:\Users\CODE.ID\source\repos\BootcampCodeID\Juragan99\obj\Debug\net6.0\Juragan99.AssemblyInfo.cs
+C:\Users\CODE.ID\source\repos\BootcampCodeID\Juragan99\obj\Debug\net6.0\Juragan99.csproj.CoreCompileInputs.cache
+C:\Users\CODE.ID\source\repos\BootcampCodeID\Juragan99\obj\Debug\net6.0\Juragan99.dll
+C:\Users\CODE.ID\source\repos\BootcampCodeID\Juragan99\obj\Debug\net6.0\refint\Juragan99.dll
+C:\Users\CODE.ID\source\repos\BootcampCodeID\Juragan99\obj\Debug\net6.0\Juragan99.pdb
+C:\Users\CODE.ID\source\repos\BootcampCodeID\Juragan99\obj\Debug\net6.0\Juragan99.genruntimeconfig.cache
+C:\Users\CODE.ID\source\repos\BootcampCodeID\Juragan99\obj\Debug\net6.0\ref\Juragan99.dll
